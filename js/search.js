@@ -20,3 +20,4 @@ if (lookfor.length > 0) {
         alert('Please type the word or words for which you want to search.');
     }
 }
+console.log(query)
